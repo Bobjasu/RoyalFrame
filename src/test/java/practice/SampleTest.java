@@ -31,7 +31,7 @@ public class SampleTest {
 			break;
 		}		
 		driver.get(URL);
-		//pulled
+		//2nd pulled
 	}
 
 }
